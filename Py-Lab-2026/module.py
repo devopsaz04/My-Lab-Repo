@@ -1,3 +1,5 @@
-import data-type
+from data_type import greeting, person1
 
-data_type.greeting("Alice")
+print(person1["age"])
+
+import datatime
