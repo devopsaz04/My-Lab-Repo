@@ -1,3 +1,6 @@
-f = open("/workspaces/My-Lab-Repo/text.txt", "r")
-print(f.read())
-f.close()
+import os
+
+if os.path.exists("test.txt"):
+    os.remove("test.txt")
+else:
+    print("The file does not exist")

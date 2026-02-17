@@ -1,0 +1,1 @@
+Data type is a classification of data that tells the computer how to interpret and use the data. It defines the type of data that can be stored in a variable, such as integers, floating-point numbers, strings, and booleans. Each data type has its own set of operations and behaviors that can be performed on it.Now the file has more content!Now the file has more content!
