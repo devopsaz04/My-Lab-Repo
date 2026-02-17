@@ -1,6 +1,8 @@
 import os
 
-if os.path.exists("test.txt"):
-    os.remove("test.txt")
+
+if os.path.exists("myfile.txt"):
+    print("File exists.")
+    os.remove("myfile.txt")
 else:
-    print("The file does not exist")
+    print("File does not exist.")
